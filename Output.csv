@@ -1,145 +1,26 @@
-Name,Price,URL
-Bulbasaur,63.00,https://scrapeme.live/shop/Bulbasaur/
-Ivysaur,87.00,https://scrapeme.live/shop/Ivysaur/
-Venusaur,105.00,https://scrapeme.live/shop/Venusaur/
-Charmander,48.00,https://scrapeme.live/shop/Charmander/
-Charmeleon,165.00,https://scrapeme.live/shop/Charmeleon/
-Charizard,156.00,https://scrapeme.live/shop/Charizard/
-Squirtle,130.00,https://scrapeme.live/shop/Squirtle/
-Wartortle,123.00,https://scrapeme.live/shop/Wartortle/
-Blastoise,76.00,https://scrapeme.live/shop/Blastoise/
-Caterpie,73.00,https://scrapeme.live/shop/Caterpie/
-Metapod,148.00,https://scrapeme.live/shop/Metapod/
-Butterfree,162.00,https://scrapeme.live/shop/Butterfree/
-Weedle,25.00,https://scrapeme.live/shop/Weedle/
-Kakuna,148.00,https://scrapeme.live/shop/Kakuna/
-Beedrill,168.00,https://scrapeme.live/shop/Beedrill/
-Pidgey,159.00,https://scrapeme.live/shop/Pidgey/
-Pidgeotto,84.00,https://scrapeme.live/shop/Pidgeotto/
-Pidgeot,185.00,https://scrapeme.live/shop/Pidgeot/
-Rattata,128.00,https://scrapeme.live/shop/Rattata/
-Raticate,60.00,https://scrapeme.live/shop/Raticate/
-Spearow,133.00,https://scrapeme.live/shop/Spearow/
-Fearow,95.00,https://scrapeme.live/shop/Fearow/
-Ekans,55.00,https://scrapeme.live/shop/Ekans/
-Arbok,182.00,https://scrapeme.live/shop/Arbok/
-Pikachu,37.00,https://scrapeme.live/shop/Pikachu/
-Raichu,140.00,https://scrapeme.live/shop/Raichu/
-Sandshrew,82.00,https://scrapeme.live/shop/Sandshrew/
-Sandslash,155.00,https://scrapeme.live/shop/Sandslash/
-Nidorina,28.00,https://scrapeme.live/shop/Nidorina/
-Nidoqueen,106.00,https://scrapeme.live/shop/Nidoqueen/
-Nidorino,179.00,https://scrapeme.live/shop/Nidorino/
-Nidoking,31.00,https://scrapeme.live/shop/Nidoking/
-Clefairy,160.00,https://scrapeme.live/shop/Clefairy/
-Clefable,188.00,https://scrapeme.live/shop/Clefable/
-Vulpix,85.00,https://scrapeme.live/shop/Vulpix/
-Ninetales,52.00,https://scrapeme.live/shop/Ninetales/
-Jigglypuff,61.00,https://scrapeme.live/shop/Jigglypuff/
-Wigglytuff,130.00,https://scrapeme.live/shop/Wigglytuff/
-Zubat,125.00,https://scrapeme.live/shop/Zubat/
-Golbat,136.00,https://scrapeme.live/shop/Golbat/
-Oddish,45.00,https://scrapeme.live/shop/Oddish/
-Gloom,178.00,https://scrapeme.live/shop/Gloom/
-Vileplume,170.00,https://scrapeme.live/shop/Vileplume/
-Paras,168.00,https://scrapeme.live/shop/Paras/
-Parasect,27.00,https://scrapeme.live/shop/Parasect/
-Venonat,158.00,https://scrapeme.live/shop/Venonat/
-Venomoth,53.00,https://scrapeme.live/shop/Venomoth/
-Diglett,122.00,https://scrapeme.live/shop/Diglett/
-Dugtrio,111.00,https://scrapeme.live/shop/Dugtrio/
-Meowth,131.00,https://scrapeme.live/shop/Meowth/
-Persian,200.00,https://scrapeme.live/shop/Persian/
-Psyduck,182.00,https://scrapeme.live/shop/Psyduck/
-Golduck,31.00,https://scrapeme.live/shop/Golduck/
-Mankey,125.00,https://scrapeme.live/shop/Mankey/
-Primeape,86.00,https://scrapeme.live/shop/Primeape/
-Growlithe,30.00,https://scrapeme.live/shop/Growlithe/
-Arcanine,69.00,https://scrapeme.live/shop/Arcanine/
-Poliwag,174.00,https://scrapeme.live/shop/Poliwag/
-Poliwhirl,121.00,https://scrapeme.live/shop/Poliwhirl/
-Poliwrath,152.00,https://scrapeme.live/shop/Poliwrath/
-Abra,141.00,https://scrapeme.live/shop/Abra/
-Kadabra,129.00,https://scrapeme.live/shop/Kadabra/
-Alakazam,40.00,https://scrapeme.live/shop/Alakazam/
-Machop,166.00,https://scrapeme.live/shop/Machop/
-Machoke,27.00,https://scrapeme.live/shop/Machoke/
-Machamp,121.00,https://scrapeme.live/shop/Machamp/
-Bellsprout,74.00,https://scrapeme.live/shop/Bellsprout/
-Weepinbell,26.00,https://scrapeme.live/shop/Weepinbell/
-Victreebel,68.00,https://scrapeme.live/shop/Victreebel/
-Tentacool,186.00,https://scrapeme.live/shop/Tentacool/
-Tentacruel,65.00,https://scrapeme.live/shop/Tentacruel/
-Geodude,32.00,https://scrapeme.live/shop/Geodude/
-Graveler,182.00,https://scrapeme.live/shop/Graveler/
-Golem,103.00,https://scrapeme.live/shop/Golem/
-Ponyta,53.00,https://scrapeme.live/shop/Ponyta/
-Rapidash,98.00,https://scrapeme.live/shop/Rapidash/
-Slowpoke,109.00,https://scrapeme.live/shop/Slowpoke/
-Slowbro,179.00,https://scrapeme.live/shop/Slowbro/
-Magnemite,100.00,https://scrapeme.live/shop/Magnemite/
-Magneton,191.00,https://scrapeme.live/shop/Magneton/
-Farfetchd,185.00,https://scrapeme.live/shop/Farfetchd/
-Doduo,73.00,https://scrapeme.live/shop/Doduo/
-Dodrio,138.00,https://scrapeme.live/shop/Dodrio/
-Seel,164.00,https://scrapeme.live/shop/Seel/
-Dewgong,70.00,https://scrapeme.live/shop/Dewgong/
-Grimer,147.00,https://scrapeme.live/shop/Grimer/
-Muk,187.00,https://scrapeme.live/shop/Muk/
-Shellder,138.00,https://scrapeme.live/shop/Shellder/
-Cloyster,199.00,https://scrapeme.live/shop/Cloyster/
-Gastly,179.00,https://scrapeme.live/shop/Gastly/
-Haunter,42.00,https://scrapeme.live/shop/Haunter/
-Gengar,149.00,https://scrapeme.live/shop/Gengar/
-Onix,37.00,https://scrapeme.live/shop/Onix/
-Drowzee,40.00,https://scrapeme.live/shop/Drowzee/
-Hypno,198.00,https://scrapeme.live/shop/Hypno/
-Krabby,64.00,https://scrapeme.live/shop/Krabby/
-Kingler,72.00,https://scrapeme.live/shop/Kingler/
-Voltorb,189.00,https://scrapeme.live/shop/Voltorb/
-Electrode,100.00,https://scrapeme.live/shop/Electrode/
-Exeggcute,126.00,https://scrapeme.live/shop/Exeggcute/
-Exeggutor,68.00,https://scrapeme.live/shop/Exeggutor/
-Cubone,177.00,https://scrapeme.live/shop/Cubone/
-Marowak,36.00,https://scrapeme.live/shop/Marowak/
-Hitmonlee,73.00,https://scrapeme.live/shop/Hitmonlee/
-Hitmonchan,91.00,https://scrapeme.live/shop/Hitmonchan/
-Lickitung,142.00,https://scrapeme.live/shop/Lickitung/
-Koffing,38.00,https://scrapeme.live/shop/Koffing/
-Weezing,48.00,https://scrapeme.live/shop/Weezing/
-Rhyhorn,124.00,https://scrapeme.live/shop/Rhyhorn/
-Rhydon,27.00,https://scrapeme.live/shop/Rhydon/
-Chansey,176.00,https://scrapeme.live/shop/Chansey/
-Tangela,64.00,https://scrapeme.live/shop/Tangela/
-Kangaskhan,164.00,https://scrapeme.live/shop/Kangaskhan/
-Horsea,154.00,https://scrapeme.live/shop/Horsea/
-Seadra,51.00,https://scrapeme.live/shop/Seadra/
-Goldeen,170.00,https://scrapeme.live/shop/Goldeen/
-Seaking,129.00,https://scrapeme.live/shop/Seaking/
-Staryu,166.00,https://scrapeme.live/shop/Staryu/
-Starmie,176.00,https://scrapeme.live/shop/Starmie/
-Mr-mime,144.00,https://scrapeme.live/shop/Mr-mime/
-Scyther,85.00,https://scrapeme.live/shop/Scyther/
-Jynx,138.00,https://scrapeme.live/shop/Jynx/
-Electabuzz,125.00,https://scrapeme.live/shop/Electabuzz/
-Magmar,130.00,https://scrapeme.live/shop/Magmar/
-Pinsir,141.00,https://scrapeme.live/shop/Pinsir/
-Tauros,63.00,https://scrapeme.live/shop/Tauros/
-Magikarp,43.00,https://scrapeme.live/shop/Magikarp/
-Gyarados,79.00,https://scrapeme.live/shop/Gyarados/
-Lapras,172.00,https://scrapeme.live/shop/Lapras/
-Ditto,75.00,https://scrapeme.live/shop/Ditto/
-Eevee,112.00,https://scrapeme.live/shop/Eevee/
-Vaporeon,147.00,https://scrapeme.live/shop/Vaporeon/
-Jolteon,158.00,https://scrapeme.live/shop/Jolteon/
-Flareon,34.00,https://scrapeme.live/shop/Flareon/
-Porygon,178.00,https://scrapeme.live/shop/Porygon/
-Omanyte,162.00,https://scrapeme.live/shop/Omanyte/
-Omastar,61.00,https://scrapeme.live/shop/Omastar/
-Kabuto,79.00,https://scrapeme.live/shop/Kabuto/
-Kabutops,57.00,https://scrapeme.live/shop/Kabutops/
-Aerodactyl,56.00,https://scrapeme.live/shop/Aerodactyl/
-Snorlax,134.00,https://scrapeme.live/shop/Snorlax/
-Articuno,77.00,https://scrapeme.live/shop/Articuno/
-Zapdos,133.00,https://scrapeme.live/shop/Zapdos/
-Moltres,178.00,https://scrapeme.live/shop/Moltres/
+Name,Price,Storage,Network,URL
+Samsung Galaxy A52 5G,$ 489.99 / € 379.00 / £ 385.96,"128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM",GSM / HSPA / LTE / 5G,samsung_galaxy_a52_5g-pictures-10631.php
+Samsung Galaxy A52,"€ 329.00 / $ 325.00 / £ 384.04 / ₹ 26,499","128GB 4GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM",GSM / HSPA / LTE,samsung_galaxy_a52-pictures-10641.php
+Samsung Galaxy A32,$ 243.99 / € 248.91 / £ 229.99,"64GB 4GB RAM, 128GB 4GB RAM, 128GB 6GB RAM, 128GB 8GB RAM",GSM / HSPA / LTE,samsung_galaxy_a32-pictures-10753.php
+Samsung Galaxy S21+ 5G,"€ 775.00 / $ 814.99 / £ 693.06 / ₹ 68,990","128GB 8GB RAM, 256GB 8GB RAM",GSM / CDMA / HSPA / EVDO / LTE / 5G,samsung_galaxy_s21+_5g-pictures-10625.php
+Samsung Galaxy M02s,"₹ 8,999","32GB 3GB RAM, 64GB 4GB RAM",GSM / HSPA / LTE,samsung_galaxy_m02s-pictures-10663.php
+Samsung Galaxy A12,"€ 149.22 / $ 129.99 / £ 137.90 / ₹ 12,780","32GB 3GB RAM, 64GB 4GB RAM, 128GB 4GB RAM, 128GB 6GB RAM",GSM / HSPA / LTE,samsung_galaxy_a12-pictures-10604.php
+Samsung Galaxy M02,"₹ 6,999","32GB 2GB RAM, 32GB 3GB RAM",GSM / HSPA / LTE,samsung_galaxy_m02-pictures-10709.php
+Samsung Galaxy S20 FE,"€ 485.00 / $ 499.99 / £ 478.99 / ₹ 35,349","128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM",GSM / CDMA / HSPA / EVDO / LTE,samsung_galaxy_s20_fe-pictures-10428.php
+Samsung Galaxy Note20 5G,$ 679.99 / £ 648.00 / € 692.99,"128GB 8GB RAM, 256GB 8GB RAM",GSM / CDMA / HSPA / EVDO / LTE / 5G,samsung_galaxy_note20_5g-pictures-10325.php
+Samsung Galaxy Watch3,€ 259.90 / $ 279.00,8GB 1GB RAM,GSM / HSPA / LTE,samsung_galaxy_watch3-pictures-10315.php
+Samsung Galaxy M01,$ 135.00,32GB 3GB RAM,GSM / HSPA / LTE,samsung_galaxy_m01-pictures-10216.php
+Samsung Galaxy A21,€ 159.00 / $ 129.99,32GB 3GB RAM,GSM / CDMA / HSPA / EVDO / LTE,samsung_galaxy_a21-pictures-10172.php
+Samsung Galaxy A31,"€ 195.90 / $ 197.99 / £ 191.99 / ₹ 17,999","64GB 4GB RAM, 128GB 4GB RAM, 128GB 6GB RAM, 128GB 8GB RAM",GSM / HSPA / LTE,samsung_galaxy_a31-pictures-10149.php
+Samsung Galaxy A41,€ 198.00 / £ 169.99,64GB 4GB RAM,GSM / HSPA / LTE,samsung_galaxy_a41-pictures-10138.php
+Samsung Galaxy S20 5G,$ 698.00 / € 640.00 / £ 486.00,"128GB 8GB RAM, 128GB 12GB RAM",GSM / CDMA / HSPA / EVDO / LTE / 5G,samsung_galaxy_s20_5g-pictures-10044.php
+Samsung Galaxy Z Flip,"$ 795.00 / € 840.90 / £ 694.00 / ₹ 69,000",256GB 8GB RAM,GSM / CDMA / HSPA / EVDO / LTE,samsung_galaxy_z_flip-pictures-10054.php
+Samsung Galaxy A51,"€ 222.00 / $ 268.95 / £ 223.95 / ₹ 22,499","64GB 4GB RAM, 128GB 4GB RAM, 128GB 6GB RAM, 128GB 8GB RAM, 256GB 8GB RAM",GSM / HSPA / LTE,samsung_galaxy_a51-pictures-9963.php
+Samsung Galaxy A20s,"$ 144.99 / € 154.74 / £ 149.37 / ₹ 12,440","32GB 2GB RAM, 32GB 3GB RAM, 64GB 4GB RAM",GSM / HSPA / LTE,samsung_galaxy_a20s-pictures-9852.php
+Samsung Galaxy A90 5G,£ 334.99 / € 573.71,"128GB 6GB RAM, 128GB 8GB RAM",GSM / HSPA / LTE / 5G,samsung_galaxy_a90_5g-pictures-9795.php
+Huawei P smart 2021,€ 136.47 / $ 166.00 / £ 152.00,128GB 4GB RAM,GSM / HSPA / LTE,huawei_p_smart_2021-pictures-10475.php
+Huawei Y6p,$ 279.00 / £ 114.99 / € 130.00,"32GB 3GB RAM, 64GB 3GB RAM, 64GB 4GB RAM",GSM / HSPA / LTE,huawei_y6p-pictures-10222.php
+Sony Xperia Pro,"$ 2,498.00",512GB 12GB RAM,GSM / HSPA / LTE / 5G,sony_xperia_pro-pictures-10707.php
+Sony Xperia 10 II,€ 309.00 / $ 334.01 / £ 264.99,"64GB 4GB RAM, 128GB 4GB RAM",GSM / HSPA / LTE,sony_xperia_10_ii-pictures-10095.php
+Sony Xperia L4,€ 243.10 / £ 169.00,64GB 3GB RAM,GSM / HSPA / LTE,sony_xperia_l4-pictures-10091.php
+Sony Xperia 5,$ 580.68 / € 569.00 / £ 149.99,128GB 6GB RAM,GSM / HSPA / LTE,sony_xperia_5-pictures-9840.php
